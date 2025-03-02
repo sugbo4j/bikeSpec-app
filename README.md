@@ -34,6 +34,7 @@ BikeSpec App is designed to simplify the often complex world of bike components 
 ### Technical Tools
 - Component weight calculator
 - Price tracking and alerts for your desired components
+- List Local Dealer/Distributor
 - Serial number tracking for warranty/theft purposes
 - Terrain suitability ratings for different build configurations
 
